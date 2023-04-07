@@ -1,0 +1,19 @@
+.polo{
+  margin: 8px;
+}
+.button{
+  margin: 5px;
+  border-radius: 4px;
+}
+.button:hover{
+  background-color: black;
+  color: white;
+}
+.Link:hover{
+  background-color: black;
+  color: white;
+  text-decoration: none;
+}
+.Link:link{
+  text-decoration: none;
+}
